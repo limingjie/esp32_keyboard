@@ -29,7 +29,7 @@ extern "C" {
 #define HID_TYPE_FEATURE     3
 
 // HID Keyboard/Keypad Usage IDs (subset of the codes available in the USB HID Usage Tables spec)
-#define HID_KEY_RESERVED       0    // No event inidicated
+#define HID_KEY_RESERVED       0    // No event indicated
 #define HID_KEY_A              4    // Keyboard a and A
 #define HID_KEY_B              5    // Keyboard b and B
 #define HID_KEY_C              6    // Keyboard c and C
